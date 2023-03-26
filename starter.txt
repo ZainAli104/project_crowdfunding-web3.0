@@ -1,0 +1,4 @@
+Client:
+	for create new project:	npx create thirdweb --app
+
+	for router: npm install react-router-dom
